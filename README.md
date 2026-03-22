@@ -2,12 +2,12 @@
 This project explores the design, implementation, and analysis of heap data structures, with a strong focus on both theoretical understanding and practical applications.
 
 ## Project Structure
-├── heapsort.py                                                                             # Heapsort implementation
+├── heapsort.py                                                                      # Heapsort implementation
 ├── mergesort.py                                                                            # Merge Sort implementation
 ├── quicksort.py                                                                            # Quicksort implementation
 ├── experiment_heapsort.py                                                                  # Performance comparison
 ├── priority_queue.py                                                                       # Priority Queue + Scheduler simulation
-├── Assignment 4 - Heap Data Structures- Implementation, Analysis, and Applications.pdf     # Project documentation
+├── Assignment 4 - Report.pdf     # Project documentation
 ├── README.md                                                                               # Project documentation
 
 
